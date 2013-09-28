@@ -6,7 +6,7 @@
 * Based on Dan Grossman's opencalais class
 * Using Open Calais service
 *
-* @author Wilson He <popstarcn@gmail.com>
+* @author Wilson He <wilson.he@gmail.com>
 * @version 0.1
 * @copyright Copyright &copy; 2009 Wilson he
 * @license BSD
