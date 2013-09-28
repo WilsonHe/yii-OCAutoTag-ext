@@ -31,7 +31,7 @@ USAGE
 See an eample used in Blog Demo:
 
 In config file main.php, add to component:
-''
+```
         'components'=>array(
           ......
           'OCAutoTag'=>array(
@@ -41,9 +41,9 @@ In config file main.php, add to component:
           ),
           ......
         )
-''
+```
 Modify actionCreate() action in PostController.php file:
-''
+```
       	public function actionCreate()
       	{
       		$post=new Post;
@@ -63,4 +63,4 @@ Modify actionCreate() action in PostController.php file:
       		}
       		$this->render('create',array('post'=>$post));
       	}
-''
+```
